@@ -1,4 +1,4 @@
-### Hi there 👋, I am Catalin Pit!
+### Hi there 👋, I am Sameer Srivastava!
 ###### *Software Engineer*
 
 I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend JavaScript technologies such as NodeJS and Express. Besides that, I am an enthusiast of AWS.
