@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sameer Srivastava!
 
-I am a Senior Full Stack Developer working on web applications used by millions of people daily. I specialise in backend JavaScript technologies such as NodeJS and Express. Besides that, I am an enthusiast of AWS.
+I am a Senior Full Stack Developer working on web applications used by millions of people daily. I specialise in backend JavaScript technologies such as NodeJS and Express/Fastify. 
 
 * Frontend: HTML, CSS, React, Angular
 * Backend: NodeJS, Docker
@@ -12,8 +12,6 @@ I am a Senior Full Stack Developer working on web applications used by millions 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sameer13/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sameer13)
 
 <!--
-**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
